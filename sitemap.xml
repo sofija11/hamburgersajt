@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://hamger34.000webhostapp.com/index.php</loc>
+		<lastmood>2019-21-4</lastmood>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+    
+	<url>
+		<loc>https://hamger34.000webhostapp.com/admin.php</loc>
+		<lastmood>2019-21-4</lastmood>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	</urlset>
